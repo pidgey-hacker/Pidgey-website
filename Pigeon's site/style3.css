@@ -1,0 +1,75 @@
+BODY {
+    font-size: 20pt; 
+    color: black; 
+	background-color: #fcfcba;
+	padding: 0px;
+    margin: 0px;
+}
+li {
+	font-size: 15pt;
+	padding: 0px;
+	margin: 0px;
+}
+ul {
+	margin: 0px;
+}
+
+h1 {
+    font-size: 32pt; 
+    color: black;  
+	text-align:left;
+	padding: 0px;
+    margin: 0px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+h2 {
+    color: #232323;  
+	font-size: 28pt;
+	text-align:left;
+	padding: 0px;
+    margin: 0px;
+   }
+h3 {
+	font-size: 20pt;
+	padding: 0px;
+	margin-top: 7pt;
+	margin: 0px;
+}
+
+h4 {
+	padding: 0px;
+	margin: 0px;
+}
+	
+p {
+   font-size: 15pt;
+   padding: 0pt;
+   margin: 0pt;
+   }
+   
+a {
+	color: black;
+}
+
+/* classes */
+
+.f12 {
+ font-size: 12pt;
+ }
+ .margintop15 {
+ 	margin-top: 15pt;
+	}
+.pictueright{
+	float: right;
+    margin-right: 10pt;
+	padding: 0pt;
+}
+.mordencomputerline {
+	margin-top: 18pt;
+	margin-bottom: 5pt;
+}
+.nogap{
+	padding: 0px;
+    margin: 0px;
+}

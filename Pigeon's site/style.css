@@ -1,0 +1,58 @@
+BODY {
+    font-size: 20pt; 
+    color: black; 
+	background-color: #fcfcba;
+	padding: 0px;
+    margin: 0px;
+}
+h1 {
+    font-size: 32pt; 
+    color: black;  
+	text-align:left;
+	padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    color: black;  
+	font-size: 25pt;
+	text-align:left;
+	padding: 0px;
+    margin-bottom: 5px;
+   }
+p {
+   padding: 0pt;
+   margin: 0pt;
+   }
+
+li {
+	font-size: 15pt;
+	padding: 0px;
+	margin: 0px;
+}
+h4 {
+    margin-bottom: 0px;
+	}
+ul {
+	margin: 0px;
+}
+
+a {
+	color: red;
+}
+
+/* classes */
+
+.f12 {
+ font-size: 12pt;
+ }
+ 
+.pictueright{
+	float: right;
+    margin-right: 10pt;
+	padding: 0pt;
+}
+.nogap{
+	padding: 0px;
+    margin: 0px;
+}
