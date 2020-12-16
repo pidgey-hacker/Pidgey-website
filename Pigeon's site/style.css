@@ -1,24 +1,22 @@
 BODY {
     font-size: 20pt; 
     color: black; 
-	background-color: #fcfcba;
-	padding: 0px;
+	background: #bfffea;
     margin: 0px;
 }
 h1 {
     font-size: 32pt; 
     color: black;  
-	text-align:left;
 	padding: 0px;
     margin: 0px;
 }
 
+			
 h2 {
     color: black;  
 	font-size: 25pt;
-	text-align:left;
 	padding: 0px;
-    margin-bottom: 5px;
+    margin-bottom: 0px;
    }
 p {
    padding: 0pt;
@@ -29,16 +27,18 @@ li {
 	font-size: 15pt;
 	padding: 0px;
 	margin: 0px;
+	float: center;
 }
 h4 {
-    margin-bottom: 0px;
+    margin-top: 25px;
+	margin-bottom: 0px;
 	}
 ul {
 	margin: 0px;
 }
 
 a {
-	color: red;
+	color: #0f4533;
 }
 
 /* classes */
@@ -52,7 +52,17 @@ a {
     margin-right: 10pt;
 	padding: 0pt;
 }
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
 .nogap{
 	padding: 0px;
     margin: 0px;
 }
+.flc {
+    float: left;
+	}
+
