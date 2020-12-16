@@ -3,7 +3,8 @@ BODY {
     color: #43bf9a; 
 	background-color: black;
 	padding: 0px;
-    margin: 0px
+    margin: 0px;
+	text-align: center;
 }
 h1 {
     font-size: 50pt; 
@@ -12,7 +13,12 @@ h1 {
     margin: 0px;
 	text-align: center;
 }
-
+ul {
+	 list-style-type: none;
+	 margin: 10px;
+	 padding-bottom: 10px;
+}
+	
 a {
 	color: yellow;
 }
