@@ -2,7 +2,7 @@ BODY {
     font-size: 20pt; 
     color: black; 
 	background: #bfffea;
-    margin: 0px;
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 h1 {
     font-size: 32pt; 
@@ -25,18 +25,7 @@ p {
 
 li {
 	font-size: 15pt;
-	padding: 0px;
-	margin: 0px;
-	float: center;
 }
-h4 {
-    margin-top: 25px;
-	margin-bottom: 0px;
-	}
-ul {
-	margin: 0px;
-}
-
 a {
 	color: #0f4533;
 }
@@ -52,17 +41,7 @@ a {
     margin-right: 10pt;
 	padding: 0pt;
 }
-footer {
-    clear: both;
-    position: relative;
-    height: 200px;
-    margin-top: -200px;
-}
 .nogap{
 	padding: 0px;
     margin: 0px;
 }
-.flc {
-    float: left;
-	}
-
