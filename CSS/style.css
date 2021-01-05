@@ -1,0 +1,52 @@
+BODY {
+    font-size: 20pt; 
+    color: #BB9D7E; 
+    background-color: black;
+	/* background-image: url('images/BAckground3test.jpg'); */
+}
+h1 {
+    font-size: 32pt;
+    color: #C4AF9A;	
+	padding: 0px;
+    margin: 0px;
+}
+
+			
+h2 {
+    color: #C4AF9A;
+	font-size: 25pt;
+	padding: 0px;
+    margin-bottom: 0px;
+   }
+p {
+   padding: 0pt;
+   margin: 0pt;
+   }
+
+li {   
+   font-size: 15pt;
+    margin-bottom: 5px;
+}
+a {
+	color: #CF4D6F;
+}
+
+/* classes */
+
+.newh1 {
+    color: black;
+}
+.f12 {
+ font-size: 12pt;
+ }
+ 
+.pictueright{
+	float: right;
+    margin-right: 10pt;
+	padding: 0pt;
+}
+.nogap{
+	padding: 0px;
+    margin: 0px;
+}
+
