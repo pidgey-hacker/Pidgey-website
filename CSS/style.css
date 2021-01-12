@@ -10,7 +10,6 @@ h1 {
 	padding: 0px;
     margin: 0px;
 }
-
 			
 h2 {
     color: #C4AF9A;
@@ -40,11 +39,6 @@ a {
  font-size: 12pt;
  }
  
-.pictueright{
-	float: right;
-    margin-right: 10pt;
-	padding: 0pt;
-}
 .nogap{
 	padding: 0px;
     margin: 0px;
