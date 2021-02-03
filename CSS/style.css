@@ -1,3 +1,6 @@
+*{
+    font-family: comic Sans MS;
+}
 BODY {
     font-size: 20pt; 
     color: #BB9D7E; 
@@ -6,6 +9,7 @@ BODY {
 }
 h1 {
     font-size: 32pt;
+    font-family: sans-serif;
     color: #C4AF9A;	
 	padding: 0px;
     margin: 0px;
@@ -13,10 +17,17 @@ h1 {
 			
 h2 {
     color: #C4AF9A;
+    font-family: sans-serif;
 	font-size: 25pt;
 	padding: 0px;
     margin-bottom: 0px;
    }
+h3 {
+    font-family: sans-serif;
+}
+h4 {
+    font-family: sans-serif;
+}
 p {
    padding: 0pt;
    margin: 0pt;
