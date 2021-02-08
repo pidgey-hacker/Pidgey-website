@@ -1,5 +1,5 @@
 *{
-    font-family: comic Sans MS;
+    font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", sans-serif;
 }
 BODY {
     font-size: 20pt; 
@@ -14,7 +14,9 @@ h1 {
 	padding: 0px;
     margin: 0px;
 }
-			
+
+a:hover{color:#ff299f;}
+
 h2 {
     color: #C4AF9A;
     font-family: sans-serif;
